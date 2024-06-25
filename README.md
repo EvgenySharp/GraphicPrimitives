@@ -20,7 +20,7 @@ TrianglePrimitive (TrianglePrimitive.cs):
 Приватный метод IsPointInTriangle используется для проверки, находится ли точка внутри треугольника.
 
 ## Классы соединений
-# 1. Connection (Connection.cs):
+### 1. Connection (Connection.cs):
 
 Представляет соединение между двумя примитивами (Start и End).
 
